@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 27 13:40:47 2026
-
-@author: student
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 import json
